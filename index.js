@@ -4,8 +4,8 @@ showMessage ();
 
 
 //2. 
-function console() {
+function showText() {
     console.log("I learn JavaScript!");
 }
 
-console();
+showText();
